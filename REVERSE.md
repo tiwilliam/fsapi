@@ -1,5 +1,16 @@
 # List of reverse engineered calls
 
+## Update service
+
+```
+http://update.wifiradiofrontier.com/FindUpdate.aspx
+    ?mac=1122334455
+    &customisation=ir-mmi-FS2026-0500-0052
+    &version=2.6.17.EX53300-2RC3
+```
+
+## FSAPI
+
 ```
 /device
 
