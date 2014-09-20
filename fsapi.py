@@ -14,6 +14,8 @@ class FSAPI(object):
     }
 
     RO_MODES = {
+        6: 'dmr',
+        7: 'network',
     }
 
     PLAY_STATES = {
