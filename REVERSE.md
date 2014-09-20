@@ -1,5 +1,6 @@
-# List of reverse-engineered calls
+# List of reverseengineered calls
 
+```
 /device
 
 /fsapi/GET_NOTIFIES
@@ -59,3 +60,4 @@
 /fsapi/GET/netRemote.play.info.text
 
 /fsapi/GET/netRemote.nav.action.dabScan
+```
